@@ -1,3 +1,7 @@
 String nombre
 long cedula
 String telefono
+
+public void saludar(){
+	...
+}
